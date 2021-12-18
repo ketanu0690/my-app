@@ -1,0 +1,10 @@
+.media{
+    width: 550px;
+    height: 520px;
+}
+.Card-container{
+    display: inline-block ;
+}
+.Card{
+    margin: 20px;
+}

@@ -1,0 +1,27 @@
+body{
+    background-color: 
+    greenyellow;
+}
+.center_div{
+    position: relative;
+    top: 250px;
+    left: 30%;
+    /* display: inline-block; */
+}
+.BUTTON1{
+    display: inline-block;
+    padding: 40px;
+    border: 6px solid yellow;
+    gap: 10px;
+    margin: 20px;
+    cursor: pointer;
+}
+.BUTTON1:hover{
+    background: linear-gradient(270deg, transparent,#3a86ff);
+}
+p{
+    font-size: larger;
+    font-size: 40px;
+    position: relative;
+    left: 160px;
+}
